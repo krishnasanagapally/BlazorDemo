@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\projects\\blazordemo\\blazordemo.csproj",
+  "FilePath": "d:\\projects\\BlazorDemoApp\\blazordemo.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -11,6 +11,72 @@
   },
   "ProjectWorkspaceState": {
     "TagHelpers": [
+      {
+        "HashCode": 247757405,
+        "Kind": "Components.Component",
+        "Name": "blazordemo.Pages.Todo",
+        "AssemblyName": "blazordemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazordemo.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 1491871634,
+        "Kind": "Components.Component",
+        "Name": "blazordemo.Pages.Todo",
+        "AssemblyName": "blazordemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazordemo.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazordemo.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1769193038,
+        "Kind": "Components.Component",
+        "Name": "blazordemo.Pages.FetchData",
+        "AssemblyName": "blazordemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazordemo.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -879587427,
+        "Kind": "Components.Component",
+        "Name": "blazordemo.Pages.FetchData",
+        "AssemblyName": "blazordemo",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazordemo.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazordemo.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
       {
         "HashCode": 400647161,
         "Kind": "Components.Component",
@@ -98,101 +164,35 @@
         }
       },
       {
-        "HashCode": 247757405,
+        "HashCode": 909774761,
         "Kind": "Components.Component",
-        "Name": "blazordemo.Pages.Todo",
+        "Name": "blazordemo.App",
         "AssemblyName": "blazordemo",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Todo"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazordemo.Pages.Todo"
+          "Common.TypeName": "blazordemo.App"
         }
       },
       {
-        "HashCode": 1491871634,
+        "HashCode": -1894318428,
         "Kind": "Components.Component",
-        "Name": "blazordemo.Pages.Todo",
+        "Name": "blazordemo.App",
         "AssemblyName": "blazordemo",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazordemo.Pages.Todo"
+            "TagName": "blazordemo.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazordemo.Pages.Todo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1769193038,
-        "Kind": "Components.Component",
-        "Name": "blazordemo.Pages.FetchData",
-        "AssemblyName": "blazordemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazordemo.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -879587427,
-        "Kind": "Components.Component",
-        "Name": "blazordemo.Pages.FetchData",
-        "AssemblyName": "blazordemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazordemo.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazordemo.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 196017150,
-        "Kind": "Components.Component",
-        "Name": "blazordemo.Shared.NavMenu",
-        "AssemblyName": "blazordemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazordemo.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -2105772526,
-        "Kind": "Components.Component",
-        "Name": "blazordemo.Shared.NavMenu",
-        "AssemblyName": "blazordemo",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazordemo.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazordemo.Shared.NavMenu",
+          "Common.TypeName": "blazordemo.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -346,35 +346,35 @@
         }
       },
       {
-        "HashCode": 909774761,
+        "HashCode": 196017150,
         "Kind": "Components.Component",
-        "Name": "blazordemo.App",
+        "Name": "blazordemo.Shared.NavMenu",
         "AssemblyName": "blazordemo",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazordemo.App"
+          "Common.TypeName": "blazordemo.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -1894318428,
+        "HashCode": -2105772526,
         "Kind": "Components.Component",
-        "Name": "blazordemo.App",
+        "Name": "blazordemo.Shared.NavMenu",
         "AssemblyName": "blazordemo",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazordemo.App"
+            "TagName": "blazordemo.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazordemo.App",
+          "Common.TypeName": "blazordemo.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16665,63 +16665,63 @@
   "RootNamespace": "blazordemo",
   "Documents": [
     {
-      "FilePath": "d:\\projects\\blazordemo\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
+      "FilePath": "d:\\projects\\BlazorDemoApp\\App.razor",
+      "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\projects\\blazordemo\\Pages\\_Host.cshtml",
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\projects\\blazordemo\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\projects\\blazordemo\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\projects\\blazordemo\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\projects\\blazordemo\\Pages\\_Layout.cshtml",
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Pages\\_Layout.cshtml",
       "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\projects\\blazordemo\\Pages\\Todo.razor",
-      "TargetPath": "Pages\\Todo.razor",
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\projects\\blazordemo\\_Imports.razor",
+      "FilePath": "d:\\projects\\BlazorDemoApp\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "d:\\projects\\blazordemo\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\projects\\blazordemo\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\projects\\blazordemo\\Shared\\SurveyPrompt.razor",
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\projects\\blazordemo\\App.razor",
-      "TargetPath": "App.razor",
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\projects\\BlazorDemoApp\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     }
   ],

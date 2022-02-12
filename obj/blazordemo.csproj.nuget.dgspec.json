@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\blazordemo\\blazordemo.csproj": {}
+    "D:\\projects\\BlazorDemoApp\\blazordemo.csproj": {}
   },
   "projects": {
-    "D:\\projects\\blazordemo\\blazordemo.csproj": {
+    "D:\\projects\\BlazorDemoApp\\blazordemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\blazordemo\\blazordemo.csproj",
+        "projectUniqueName": "D:\\projects\\BlazorDemoApp\\blazordemo.csproj",
         "projectName": "blazordemo",
-        "projectPath": "D:\\projects\\blazordemo\\blazordemo.csproj",
+        "projectPath": "D:\\projects\\BlazorDemoApp\\blazordemo.csproj",
         "packagesPath": "C:\\Users\\saiso\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\blazordemo\\obj\\",
+        "outputPath": "D:\\projects\\BlazorDemoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saiso\\AppData\\Roaming\\NuGet\\NuGet.Config"
